@@ -1,6 +1,6 @@
+os: linux
 dist: xenial
-sudo: false
-language: minimal
+language: shell
 
 addons:
   apt:
