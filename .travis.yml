@@ -34,8 +34,9 @@ install:
 
 script:
   - cd $TRAVIS_BUILD_DIR/HelloWorld
-  - idf.py defconfig
+  - idf.py reconfigure
   - idf.py build
+  - idf.py size
 
 branches:
   only:
