@@ -1,0 +1,4 @@
+# ingnore esp-idf's sdkconfig files
+/HelloWorld/build/
+/HelloWorld/sdkconfig
+/HelloWorld/sdkconfig.old
