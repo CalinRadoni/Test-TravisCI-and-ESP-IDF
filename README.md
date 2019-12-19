@@ -1,5 +1,7 @@
 # Test Travis CI and ESP-IDF
 
+[![Build Status](https://travis-ci.com/CalinRadoni/Test-TravisCI-and-ESP-IDF.svg?branch=master)](https://travis-ci.com/CalinRadoni/Test-TravisCI-and-ESP-IDF)
+
 Test repository for compiling a project using [ESP-IDF release 4.0](https://docs.espressif.com/projects/esp-idf/en/release-v4.0) in [Travis CI](https://www.travis-ci.com/)
 
 `ESP-IDF` release 4.0 installation:
